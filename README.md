@@ -22,4 +22,16 @@ This is a movie listing application that allows users to view a list of movies a
 ![Genre Filtering](images_of_app/p2.PNG)
 
 
+## Installation
+### Prerequisites
+- please install requirements.txt file
+
+### Steps
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/RahulG7775/assignment.git
+
+
+### Start the app 
+   ```bash
+   python main.py
